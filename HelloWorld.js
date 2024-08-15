@@ -1,3 +1,3 @@
 console.log("Hello world");
 
-console.log("updated");
+console.log("updated code");
